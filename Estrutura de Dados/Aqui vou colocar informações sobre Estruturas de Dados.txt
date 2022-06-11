@@ -1,2 +1,4 @@
 ## Estruturas de Dados é uma parte muito importante da computação e ambito geral
 
+## https://sites.google.com/site/proffdesiqueiraed/aulas/aula-1---introducao-a-estrutura-de-dados
+
